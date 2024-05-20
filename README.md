@@ -1,6 +1,6 @@
 # SA1G0N
 
-**'Self-taught freelancer'**
+**`Self-taught freelancer`**
 
 I'm an autodidact with a passion for coding. This profile showcases a blend of my old school projects, modifications of others' work, and original projects I've built from scratch. Additionally, I create videos to share solutions to problems related to Linux, server management, and coding problems that I've encountered along the way.
 
@@ -16,4 +16,5 @@ I'm an autodidact with a passion for coding. This profile showcases a blend of m
   <a href="https://www.gentoo.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" alt="gentoo" width="40" height="40"/> </a> 
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S41G0N)](https://git.io/streak-stats)
 
