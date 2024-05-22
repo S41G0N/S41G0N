@@ -16,7 +16,7 @@ I'm an autodidact with a passion for coding. This profile showcases a blend of m
   <a href="https://www.gentoo.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" alt="gentoo" width="40" height="40"/> </a> 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S41G0N&theme=dark&hide_border=true&background=0c1116&stroke=ffffff&ring=04c444&fire=04c444)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S41G0N&theme=dark&hide_border=true&background=0c1116&stroke=ffffff&ring=04c444&fire=04c444&currStreakLabel=04c444)](https://git.io/streak-stats)
 
 ### 📺 Latest YouTube Videos
 
