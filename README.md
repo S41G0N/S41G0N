@@ -29,4 +29,4 @@ I'm an autodidact with a passion for coding. This profile showcases a blend of m
 [![CS:GO Deathmatch on Gentoo Linux - Hyprland! | SA1G0N](https://ytcards.demolab.com/?id=fBTF3rTw7Mo&title=CS%3AGO+Deathmatch+on+Gentoo+Linux+-+Hyprland%21+%7C+SA1G0N&lang=en&timestamp=1687639983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CS:GO Deathmatch on Gentoo Linux - Hyprland! | SA1G0N")](https://www.youtube.com/watch?v=fBTF3rTw7Mo)
 <!-- END YOUTUBE-CARDS -->
 
-
+![GitHub Snake Dark](https://github.com/S41G0N/S41G0N/blob/output/github-contribution-grid-snake-dark.svg)
