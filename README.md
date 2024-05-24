@@ -1,4 +1,4 @@
-# SA1G0N
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=E6525B&center=true&vCenter=true&random=false&width=500&height=100&lines=SA1G0N;Hello+world..)](https://git.io/typing-svg)
 
 **`Self-taught freelancer`**
 
