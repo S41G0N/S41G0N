@@ -7,9 +7,11 @@
 
 I'm an autodidact with a passion for coding. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management.
 
+
+
 <h2 align="center">Familiar languages & tools:</h2>
 
-<p align="center">
+<p align="center" style="margin-bottom:40px">
     <a href="https://www.cprogramming.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
     <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.fastapi.tiangolo.com"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
