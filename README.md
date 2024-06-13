@@ -7,9 +7,7 @@
 
 I'm an autodidact with a passion for coding. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S41G0N&theme=dark&hide_border=true&background=0c1116&stroke=ffffff&ring=04c444&fire=04c444&currStreakLabel=04c444)](https://git.io/streak-stats)
-
-<h3 align="center">Familiar languages & tools:</h3>
+<h2 align="center">Familiar languages & tools:</h2>
 
 <p align="center">
     <a href="https://www.cprogramming.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -22,8 +20,15 @@ I'm an autodidact with a passion for coding. This profile showcases a blend of p
     <a href="https://www.gentoo.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" alt="gentoo" width="40" height="40"/></a>
 </p>
 
+<h2 align="center">Recent Activity</h2>
 
-### 📺 Latest YouTube Videos
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=S41G0N&theme=dark&hide_border=true&background=0c1116&stroke=ffffff&ring=04c444&fire=04c444&currStreakLabel=04c444" alt="GitHub Streak" />
+  </a>
+</div>
+
+<h2 align="center"> 📺 Latest YouTube Videos </h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Fixing Invisible Windows in Brave Browser After Latest Update (Wayland) | SA1G0N](https://ytcards.demolab.com/?id=bb5yvyoCiiw&title=Fixing+Invisible+Windows+in+Brave+Browser+After+Latest+Update+%28Wayland%29+%7C+SA1G0N&lang=en&timestamp=1713884895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fixing Invisible Windows in Brave Browser After Latest Update (Wayland) | SA1G0N")](https://www.youtube.com/watch?v=bb5yvyoCiiw)
