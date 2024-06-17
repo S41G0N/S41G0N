@@ -3,13 +3,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=1000&color=43F7CDFF&center=true&vCenter=true&random=false&width=500&height=100&lines=SA1G0N;Hello+world.." alt="Typing SVG" />
 </h1>
 
-<h2 align="center">Introduction</h2>
+<h2 align="center"> Introduction </h2>
+
 **`Self-taught freelancer`**
+
 I'm an autodidact with a passion for coding. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management.
 
 
 
-<h2 align="center">Familiar languages & tools:</h2>
+<h2 align="center"> Familiar languages & tools </h2>
 
 <p align="center" style="margin-bottom:40px">
     <a href="https://www.cprogramming.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -22,7 +24,7 @@ I'm an autodidact with a passion for coding. This profile showcases a blend of p
     <a href="https://www.gentoo.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" alt="gentoo" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">Recent Activity</h2>
+<h2 align="center"> Recent Activity </h2>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
