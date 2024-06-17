@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=1000&color=43F7CDFF&center=true&vCenter=true&random=false&width=500&height=100&lines=SA1G0N;Hello+world.." alt="Typing SVG" />
 </h1>
 
+<h2 align="center">Introduction</h2>
 **`Self-taught freelancer`**
-
 I'm an autodidact with a passion for coding. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management.
 
 
