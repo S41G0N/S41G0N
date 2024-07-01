@@ -7,7 +7,7 @@
 
 **`Self-taught freelancer`**
 
-I'm an autodidact with a passion for coding. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management.
+I'm an autodidact with a passion for programming. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management.
 
 
 
