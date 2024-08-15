@@ -1,15 +1,35 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=1000&color=43F7CDFF&center=true&vCenter=true&random=false&width=500&height=100&lines=SA1G0N;Hello+world.." alt="Typing SVG" />
 </h1>
 
-<h2 align="center"> Introduction </h2>
-
 **`Self-taught freelancer`**
 
-I'm an autodidact with a passion for programming. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management.
+I'm an autodidact with a passion for programming. This profile showcases a blend of projects I've built from scratch, old school projects, and modifications of others' work. Additionally, I create videos about coding problems, Linux tools and basics of server management. I regularily contribute to Gentoo's GURU ebuild repository.
 
+<h2 align="center"> Projects & Contributions </h2>
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <h3>prompt-assistant Neovim Plugin</h3>
+    <p>A Neovim plugin that integrates Claude Sonnet LLM directly into your Neovim buffer (inspired by Yaccine and his dingllm)</p>
+    <p>Key features:</p>
+    <ul>
+      <li>LLM Assistance for programming, ascii image generation etc </li>
+      <li>Context-aware explanations</li>
+      <li>Seamless Neovim integration</li>
+    </ul>
+  </div>
+  <div style="width: 48%;">
+    <h3>Gentoo GURU Contributions</h3>
+    <p>Active contributor to the development branch of Gentoo's GURU repository, helping maintain and improve packages for the best OS after TempleOS.</p>
+    <p>My ebuilds have been merged into GURU's master branch, these ebuilds include: </p>
+    <ul>
+      <li>x11-misc/ly version 1.0.1 and 9999 </li>
+      <li>sys-power/auto-cpufreq 2.3.0 and 2.2.0 </li>
+      <li>More commits on the way! </li>
+    </ul>
+  </div>
+</div>
 
 <h2 align="center"> Familiar languages & tools </h2>
 
