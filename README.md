@@ -25,10 +25,11 @@ I'm an autodidact with a passion for programming. This profile showcases a blend
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
     <h3>prompt-assistant</h3>
-    <p>A Neovim plugin that integrates Claude Sonnet LLM directly into your Neovim buffer (inspired by Yaccine and his dingllm)</p>
+    <p>A Neovim plugin that integrates Anthropic & Ollama LLMs directly into your Neovim buffer (inspired by Yaccine and his dingllm)</p>
     <p>Key features:</p>
     <ul>
       <li>LLM Assistance for programming, ascii image generation etc.. </li>
+      <li>Support for Anthropic & Ollama API -> Claude Sonnet, Claude Opus, Mistral, Codegemma, Llama etc</li>
       <li>Context-aware explanations</li>
       <li>Seamless Neovim integration</li>
     </ul>
