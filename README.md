@@ -36,11 +36,13 @@ I'm an autodidact with a passion for programming. This profile showcases a blend
   </div>
   <div style="width: 48%;">
     <h3>Gentoo GURU Contributions</h3>
-    <p>Active contributor to the development branch of Gentoo's GURU repository, helping maintain and improve packages for the best OS after TempleOS.</p>
+    <p>Active contributor to the development branch of Gentoo's GURU repository, helping maintain and improve packages.</p>
     <p>My ebuilds have been merged into GURU's master branch, these ebuilds include: </p>
     <ul>
       <li>x11-misc/ly version 1.0.1 and 9999 </li>
       <li>sys-power/auto-cpufreq 2.3.0 and 2.2.0 </li>
+      <li>www-client/zen-bin alpha versions </li>
+      <li>sys-power/system76-power </li>
       <li>More commits on the way! </li>
     </ul>
   </div>
