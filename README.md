@@ -51,7 +51,12 @@ I'm an autodidact with a passion for programming. This profile showcases a blend
 <h2 align="center"> 📺 Latest YouTube Videos </h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![The Story Behind Linux's Penguin Logo](https://ytcards.demolab.com/?id=ZiEx0pV4sUk&title=The+Story+Behind+Linux%27s+Penguin+Logo&lang=en&timestamp=1783717721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Story Behind Linux's Penguin Logo")](https://www.youtube.com/shorts/ZiEx0pV4sUk)
+[![AI Made Me a Worse Programmer](https://ytcards.demolab.com/?id=RiJlI4y-9L4&title=AI+Made+Me+a+Worse+Programmer&lang=en&timestamp=1781128014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AI Made Me a Worse Programmer")](https://www.youtube.com/watch?v=RiJlI4y-9L4)
+[![The Simplified History of BASH](https://ytcards.demolab.com/?id=F3gn69eX-WY&title=The+Simplified+History+of+BASH&lang=en&timestamp=1741811384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Simplified History of BASH")](https://www.youtube.com/shorts/F3gn69eX-WY)
+[![How to Remove a Motherboard Tray from Supermicro Servers](https://ytcards.demolab.com/?id=gvqC3DUVY68&title=How+to+Remove+a+Motherboard+Tray+from+Supermicro+Servers&lang=en&timestamp=1741034108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Remove a Motherboard Tray from Supermicro Servers")](https://www.youtube.com/watch?v=gvqC3DUVY68)
+[![The Ultimate "Linux" Tier List - Part 1](https://ytcards.demolab.com/?id=n2DWgzPve00&title=The+Ultimate+%22Linux%22+Tier+List+-+Part+1&lang=en&timestamp=1738890914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Ultimate \"Linux\" Tier List - Part 1")](https://www.youtube.com/shorts/n2DWgzPve00)
+[![3 Underrated Features of Basic Linux Commands](https://ytcards.demolab.com/?id=DL4veJfZsNE&title=3+Underrated+Features+of+Basic+Linux+Commands&lang=en&timestamp=1738332353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "3 Underrated Features of Basic Linux Commands")](https://www.youtube.com/shorts/DL4veJfZsNE)
 <!-- END YOUTUBE-CARDS -->
 
 <h2 align="center"> Recent Activity </h2>
